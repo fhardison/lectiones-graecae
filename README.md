@@ -1,12 +1,12 @@
-# {{ NAME OF TEXT }}
+# Lectiones Graecae 
 
-{{ describe what is being done, the process being followed, and who is involved in the work }}
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
 ## Contributors
 
-* {{ list of people who have contributed to this repo }}
+* Nathan Binns (digitizing)
+
 
 ## Source
 
